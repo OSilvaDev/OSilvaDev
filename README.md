@@ -7,6 +7,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### Tools
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Termux](https://drive.google.com/uc?export=view&id=1kRJ7CwiQIG5CneysM_Cu68D2NY7Jg3Fv)&nbsp;
-![FireBase](https://drive.google.com/uc?export=view&id=1kRd4j-rVslBLgOSmro32IfmmUKn1bfxa)&nbsp;
+![GitHub](./images/github.svg)&nbsp;
+![Termux](./images/termux.svg)&nbsp;
+![FireBase](./images/firebase.svg)&nbsp;
