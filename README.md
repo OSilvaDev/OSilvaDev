@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OSilvaDev&show_icons=true&count_private=true&hide_border=true&title_color=ADC6FF&icon_color=ADC6FF&text_color=E2E2E9&bg_color=111318" alt="OSilvaDev GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadedev13&layout=compact&hide_border=true&title_color=ADC6FF&text_color=E2E2E9&bg_color=111318" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDev&layout=compact&hide_border=true&title_color=ADC6FF&text_color=E2E2E9&bg_color=111318" />
 </div>
 
 
