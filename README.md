@@ -3,9 +3,12 @@
 ### Hello, World!
 <blockquote>Full Stack Junior Developer from Brazil, programming since 2020 with a passion for the craft. Experienced in Firebase and Java, always striving to grow and deliver high-quality solutions.</blockquote>
 
-[![OSilvaDev GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OSilvaDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/OSilvaDev/github-readme-stats#gh-dark-mode-only)
+[![OSilvaDev's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OSilvaDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/OSilvaDev/github-readme-stats#gh-dark-mode-only)
+[![OSilvaDev's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=OSilvaDev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/OSilvaDev/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDev&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDev&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDev&layout=compact&show_icons=true&theme=default#gh-light-mode-only)
 
 
 ### Language
